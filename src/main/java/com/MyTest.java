@@ -5,5 +5,6 @@ public class MyTest {
         System.out.println("输出了2");
 
         System.out.println("xiugai ");
+        System.out.println("修改过的代码。需要重新拉取 ");
     }
 }
